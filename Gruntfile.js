@@ -38,6 +38,6 @@ module.exports= function(grunt){
     },
 });
 
-grunt.registerTask('build',['cssnano','cwebp']);
+grunt.registerTask('default',['cssnano','cwebp']);
 };
 
