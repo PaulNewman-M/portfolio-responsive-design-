@@ -16,6 +16,7 @@
     "grunt-assemble": "^0.6.3",
     "grunt-contrib-less": "^1.4.1",
     "grunt-contrib-watch": "^1.0.0",
+    "grunt-convert-svg-to-png": "^1.1.0",
     "grunt-cssnano": "^2.1.0",
     "grunt-cwebp": "^2.1.0",
     "jit-grunt": "^0.10.0",
