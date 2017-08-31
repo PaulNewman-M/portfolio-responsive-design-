@@ -1,0 +1,129 @@
+
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+color:white;
+}
+body{
+    background-color:white;
+}
+
+.nosifer {
+    font-family: nosifer caps;
+    color: #C1E1A6
+}
+.divpadding {
+    padding:17%;
+}
+.imgphoto {
+    width: 100%;
+    clip-path: polygon(0 0, 100% 0,100% 100%, 0 95%)
+}
+.firstdiv p{
+    font-size: 4vmin;
+}
+.firstdiv {
+    background-color: #74AFAD;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 95%)
+}
+.seconddiv {
+    background-color: #C1E1A6
+}
+.thirddiv {
+    background-color: #FFF;
+    border: #000
+}
+.forthdiv {
+   
+    background-color: #2B2B2B;
+    opacity: .8;
+    clip-path: polygon(0 0, 100% 0, 100% 90%, 0 100%)
+}
+
+.phonesize {
+    min-width: 30%;
+    margin: 1%;
+}
+.skillsheight {
+    background-height: 10%
+}
+.paddingskills {
+    padding: 10%;
+    min-height: 4%;
+    min-width: 2%;
+    margin: 1% 
+}
+
+#content1 {
+    margin-top: 10%
+}
+body,
+h4 {
+    font-family: Artifika
+}
+.radius {
+    height: 80%;
+    width: 50%;
+    border-radius: 50%
+}
+
+.radius1 {
+    border-radius: 35%
+}
+.other-class1 {
+    background-color: #A0D4A4
+}
+.btn-round {
+    border-radius: 15px;
+    background-color: #fff
+}
+.black-border {
+    border-color: gray
+}
+.btn-linkedin {
+    background: #0E76A8;
+    border-radius: 0;
+    color: #fff;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #084461
+}
+.fa,
+.iradius {
+    border-radius: 50%
+}
+.fa {
+    padding: 40px;
+    font-size: 25px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none
+}
+.contactsize li {
+    font-size: 4vw;
+
+}
+.end {
+    margin: 1.5vw;
+    padding: 1vw
+}
+.fa:hover,
+.faa:hover {
+    opacity: .7
+}
+.fa-facebook {
+    background: #3B5998;
+    color: #fff
+}
+.fa-linkedin {
+    background: #007bb5;
+    color: #fff
+}
+.fa-github {
+    background: #999;
+    color: #fff
+}
